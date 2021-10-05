@@ -1,3 +1,7 @@
+## Preview
+
+![](./resources/demo.gif)
+
 ## About this project
 
 This is the first API version of the MAPA/IICA/BID project - Virtual Hubs.
