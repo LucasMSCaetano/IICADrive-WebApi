@@ -14,7 +14,7 @@ Meet the demand of the project using our own virtual hub so that ***using this s
 
 ## first steps
 
-If you are interested in seeing how it works in practice, download this project and the other repository called IICADrive-webapp which is also found in my public repository.
+If you are interested in seeing how it works in practice, download this project and the other repository called IICADrive-WebApp which is also found in my public repository.
 
 ```
 $ git clone https://github.com/LucasMSCaetano/IICADrive-WebApi.git
